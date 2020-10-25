@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a web client for vizualizing simulation real-time data.
 - 🌱 I’m currently learning Angular.
-- ⚡ Academic profile: https://www.researchgate.net/profile/Christian_Heinemann and https://scholar.google.de/citations?user=iaMMMA0AAAAJ
+- ⚡ Academic profiles: [ResearchGate](https://www.researchgate.net/profile/Christian_Heinemann) and [Google Scholar](https://scholar.google.de/citations?user=iaMMMA0AAAAJ)
 - 📫 How to reach me: heinemann.christian@gmail.com
 
 <!--
