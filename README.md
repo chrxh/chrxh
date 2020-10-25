@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working on a web client to visualize simulation real-time data.
 - 🌱 I’m currently learning Angular.
-- ⚡ Academic profiles: [ResearchGate](https://www.researchgate.net/profile/Christian_Heinemann) and [Google Scholar](https://scholar.google.de/citations?user=iaMMMA0AAAAJ)
+- ⚡ Academic profiles: **[ResearchGate](https://www.researchgate.net/profile/Christian_Heinemann)** and **[Google Scholar](https://scholar.google.de/citations?user=iaMMMA0AAAAJ)**
 - 📫 How to reach me: **heinemann.christian@gmail.com** and 
-<a href="https://www.youtube.com/c/youtube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="30" width="40" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrxh&label=Profile%20views&color=0e75b6&style=flat" alt="chrxh" /> </p>
 
