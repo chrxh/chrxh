@@ -1,4 +1,5 @@
-### ``Hi there 👋
+<pre>
+### Hi there 👋
 
 - 🔭 I’m currently working on a web application to visualize simulation real-time data.
 - 🌱 I’m currently learning Angular.
@@ -6,6 +7,8 @@
 - 📫 How to reach me: **heinemann.christian@gmail.com** ``
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrxh&label=Profile%20views&color=0e75b6&style=flat" alt="chrxh" /> </p>
+
+</pre>
 
 <!--
 **chrxh/chrxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
